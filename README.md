@@ -2,7 +2,7 @@
 - 🧠 I’m passionate about leveraging **Artificial Intelligence (AI)** and **Machine Learning (ML)** to solve complex engineering problems.  
 - 🌱 Currently, I’m diving deep into:  
   - **Advanced Machine Learning Algorithms** tailored for engineering applications.  
-  - **Numerical Methods** for optimizing and simulating engineering systems.  
+  - **Numerical Methods** for simulating engineering problems.  
 - 💡 I’m always eager to explore how AI can revolutionize traditional engineering practices.  
 - 📫 How to reach me:  
   - **Email:** mehradtajik666@gmail.com  
